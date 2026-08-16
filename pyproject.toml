@@ -5,7 +5,7 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
-    "dvc>=3.67.1",
+    "dvc[s3]>=3.67.1",
     "dvclive>=3.49.1",
     "matplotlib>=3.11.1",
     "nltk>=3.10.3",
